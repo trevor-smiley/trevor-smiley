@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @trevor-smiley
+- 👨‍💻 I’m working on billing features for our Collaborative Health Record
+- 🌱 I’m currently learning Ruby on Rails
